@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\AverageMethodExceptions\bin\Debug\AverageMethodExceptions.exe.config
+C:\Users\pawel\Desktop\AverageMethodExceptions\bin\Debug\AverageMethodExceptions.exe
+C:\Users\pawel\Desktop\AverageMethodExceptions\bin\Debug\AverageMethodExceptions.pdb
+C:\Users\pawel\Desktop\AverageMethodExceptions\obj\Debug\AverageMethodExceptions.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\AverageMethodExceptions\obj\Debug\AverageMethodExceptions.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\AverageMethodExceptions\obj\Debug\AverageMethodExceptions.exe
+C:\Users\pawel\Desktop\AverageMethodExceptions\obj\Debug\AverageMethodExceptions.pdb

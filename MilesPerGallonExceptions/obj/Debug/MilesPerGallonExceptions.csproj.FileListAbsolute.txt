@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\MilesPerGallonExceptions\bin\Debug\MilesPerGallonExceptions.exe.config
+C:\Users\pawel\Desktop\MilesPerGallonExceptions\bin\Debug\MilesPerGallonExceptions.exe
+C:\Users\pawel\Desktop\MilesPerGallonExceptions\bin\Debug\MilesPerGallonExceptions.pdb
+C:\Users\pawel\Desktop\MilesPerGallonExceptions\obj\Debug\MilesPerGallonExceptions.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\MilesPerGallonExceptions\obj\Debug\MilesPerGallonExceptions.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\MilesPerGallonExceptions\obj\Debug\MilesPerGallonExceptions.exe
+C:\Users\pawel\Desktop\MilesPerGallonExceptions\obj\Debug\MilesPerGallonExceptions.pdb
